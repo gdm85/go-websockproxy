@@ -4,3 +4,6 @@
 [submodule "vendor/github.com/songgao/water"]
 	path = vendor/github.com/songgao/water
 	url = https://github.com/songgao/water.git
+[submodule "vendor/github.com/ogier/pflag"]
+	path = vendor/github.com/ogier/pflag
+	url = https://github.com/ogier/pflag
